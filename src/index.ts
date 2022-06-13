@@ -1,3 +1,13 @@
-import { DreeperClient, Command, DreeperCommandInteraction, DreeperCommandInteractionOptionResolver } from "./structures";
+import {
+  DreeperClient,
+  Command,
+  DreeperCommandInteraction,
+  DreeperCommandInteractionOptionResolver,
+} from './structures';
 
-export { DreeperClient, Command, DreeperCommandInteraction, DreeperCommandInteractionOptionResolver }
+export {
+  DreeperClient,
+  Command,
+  DreeperCommandInteraction,
+  DreeperCommandInteractionOptionResolver,
+};
